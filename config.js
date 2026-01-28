@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Άννα",
+    valentineName: "Αγαπητή μου Άννα",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Νιε! Είμαι ο πιο τυχερός άνθρωπος στο κόσμο 🎉💝💖💝💓",
-        message: "Τώρα έλα να κουκουλωθούμε τρόγωντας ασιατικό",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Νιεεε! Είμαι ο πιο τυχερός άνθρωπος στο κόσμο 🎉💝💖💝💓",
+        message: "Τώρα έλα να κουκουλωθούμε τρώγοντας ασιατικό",
+        emojis: "💖🤗🍜💝💋🍣🍥💕"  // These will bounce around
     },
 
     // Color scheme for the website
